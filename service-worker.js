@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/4.302-Socially-Engaging-Artwork/precache-manifest.265180b9d064d3dbd593ae74e4bea9b8.js"
+  "/4.302-Socially-Engaging-Artwork/precache-manifest.91041a7332672ab205a9f846775262df.js"
 );
 
 self.addEventListener('message', (event) => {
