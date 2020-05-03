@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "225db4fd95011603a8f8c712dee766c5",
+    "revision": "7470573abd24e14d7bdcb6da24074246",
     "url": "/4.302-Socially-Engaging-Artwork/index.html"
   },
   {
-    "revision": "b64a8e4c49c9548d8784",
-    "url": "/4.302-Socially-Engaging-Artwork/static/css/main.a063a34e.chunk.css"
+    "revision": "2162d593271d8b0cce1a",
+    "url": "/4.302-Socially-Engaging-Artwork/static/css/main.690480b6.chunk.css"
   },
   {
     "revision": "f5e118622ba253b8ff75",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/4.302-Socially-Engaging-Artwork/static/js/2.c8fe5718.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b64a8e4c49c9548d8784",
+    "revision": "2162d593271d8b0cce1a",
     "url": "/4.302-Socially-Engaging-Artwork/static/js/main.01806c59.chunk.js"
   },
   {
