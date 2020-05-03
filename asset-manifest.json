@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/4.302-Socially-Engaging-Artwork/static/css/main.fa812b27.chunk.css",
+    "main.js": "/4.302-Socially-Engaging-Artwork/static/js/main.ece1ed15.chunk.js",
+    "main.js.map": "/4.302-Socially-Engaging-Artwork/static/js/main.ece1ed15.chunk.js.map",
+    "runtime-main.js": "/4.302-Socially-Engaging-Artwork/static/js/runtime-main.e9c5d40b.js",
+    "runtime-main.js.map": "/4.302-Socially-Engaging-Artwork/static/js/runtime-main.e9c5d40b.js.map",
+    "static/js/2.c8fe5718.chunk.js": "/4.302-Socially-Engaging-Artwork/static/js/2.c8fe5718.chunk.js",
+    "static/js/2.c8fe5718.chunk.js.map": "/4.302-Socially-Engaging-Artwork/static/js/2.c8fe5718.chunk.js.map",
+    "index.html": "/4.302-Socially-Engaging-Artwork/index.html",
+    "precache-manifest.265180b9d064d3dbd593ae74e4bea9b8.js": "/4.302-Socially-Engaging-Artwork/precache-manifest.265180b9d064d3dbd593ae74e4bea9b8.js",
+    "service-worker.js": "/4.302-Socially-Engaging-Artwork/service-worker.js",
+    "static/css/main.fa812b27.chunk.css.map": "/4.302-Socially-Engaging-Artwork/static/css/main.fa812b27.chunk.css.map",
+    "static/js/2.c8fe5718.chunk.js.LICENSE.txt": "/4.302-Socially-Engaging-Artwork/static/js/2.c8fe5718.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/4.302-Socially-Engaging-Artwork/static/media/Conformity.4adf5735.TTF",
+    "static/media/Illustration1.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration1.83986c61.png",
+    "static/media/Illustration10.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration10.83986c61.png",
+    "static/media/Illustration11.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration11.239df7bb.png",
+    "static/media/Illustration2.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration2.15dc8ede.png",
+    "static/media/Illustration3.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration3.b6210c8a.png",
+    "static/media/Illustration4.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration4.d69067c4.png",
+    "static/media/Illustration5.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration5.b9b1aaaa.png",
+    "static/media/Illustration6-1.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration6-1.3086de9b.png",
+    "static/media/Illustration6-2.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration6-2.f84c12af.png",
+    "static/media/Illustration7.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration7.96c5d294.png",
+    "static/media/Illustration8.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration8.c4073b5b.png",
+    "static/media/Illustration9.png": "/4.302-Socially-Engaging-Artwork/static/media/Illustration9.6701bd3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c5d40b.js",
+    "static/js/2.c8fe5718.chunk.js",
+    "static/css/main.fa812b27.chunk.css",
+    "static/js/main.ece1ed15.chunk.js"
+  ]
+}
